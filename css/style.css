@@ -17,6 +17,7 @@ body {
     background: url(../Photo/BackgroundImage/Group\ 18.jpg) no-repeat center / cover, #0b1d27 no-repeat bottom / cover;
     width: 100%;
     height: 1760px;
+    padding: 10px;
 }
 
 section {
