@@ -175,7 +175,7 @@ section {
     justify-content: space-around;
     width: 1500px;
     background: url(../Photo/Block_Image/Equipment.png) no-repeat top left;
-    background-position-x: 120px;
+    background-position-y: 50px;
     padding-top: 25px;
 }
 
@@ -258,7 +258,7 @@ h2 {
     width: 1500px;
     background: url(../Photo/Block_Image/Equipment-1.png) no-repeat top left;
     background-position-x: 700px;
-    background-position-y: 90px;
+    background-position-y: 180px;
     padding-top: 150px;
 }
 
@@ -287,8 +287,7 @@ h2 {
     justify-content: space-around;
     width: 1500px;
     background: url(../Photo/Block_Image/Equipment-2.png) no-repeat top left;
-    background-position-y: 120px;
-    background-position-x: 120px;
+    background-position-y: 220px;
     padding-top: 180px;
 }
 
