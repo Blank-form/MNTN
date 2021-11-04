@@ -461,6 +461,7 @@ a {
     display: flex;
     position: fixed;
     right: 50px;
+    z-index: 100;
 }
 
 .tabs_word {
