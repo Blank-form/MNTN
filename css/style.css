@@ -173,7 +173,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    width: 1500px;
+    width: 100%;
     background: url(../Photo/Block_Image/Equipment.png) no-repeat top left;
     background-position-y: 50px;
     padding-top: 25px;
@@ -255,7 +255,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 1500px;
+    width: 100%;
     background: url(../Photo/Block_Image/Equipment-1.png) no-repeat top left;
     background-position-x: 700px;
     background-position-y: 180px;
@@ -285,7 +285,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    width: 1500px;
+    width: 100%;
     background: url(../Photo/Block_Image/Equipment-2.png) no-repeat top left;
     background-position-y: 220px;
     padding-top: 180px;
