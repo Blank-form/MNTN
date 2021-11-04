@@ -14,7 +14,7 @@
 }
 
 body {
-    background: url(/Photo/BackgroundImage/Group\ 18.jpg) no-repeat center / cover, #0b1d27 no-repeat bottom / cover;
+    background: url(../Photo/BackgroundImage/Group\ 18.jpg) no-repeat center / cover, #0b1d27 no-repeat bottom / cover;
     width: 100%;
     height: 1760px;
 }
@@ -174,7 +174,7 @@ section {
     align-items: center;
     justify-content: space-around;
     width: 1500px;
-    background: url(/Photo/Block_Image/Equipment.png) no-repeat top left;
+    background: url(../Photo/Block_Image/Equipment.png) no-repeat top left;
     background-position-y: 50px;
     padding-top: 25px;
 }
@@ -256,7 +256,7 @@ h2 {
     align-items: center;
     justify-content: space-between;
     width: 1500px;
-    background: url(/Photo/Block_Image/Equipment-1.png) no-repeat top left;
+    background: url(../Photo/Block_Image/Equipment-1.png) no-repeat top left;
     background-position-x: 700px;
     background-position-y: 175px;
     padding-top: 150px;
@@ -286,7 +286,7 @@ h2 {
     align-items: center;
     justify-content: space-around;
     width: 1500px;
-    background: url(/Photo/Block_Image/Equipment-2.png) no-repeat top left;
+    background: url(../Photo/Block_Image/Equipment-2.png) no-repeat top left;
     background-position-y: 220px;
     padding-top: 180px;
 }
