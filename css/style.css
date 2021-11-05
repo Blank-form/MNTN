@@ -723,6 +723,7 @@ a {
 .cap{    
     flex-direction: column;
     text-align: center;
+    padding-bottom: 40px;
     }
     
     .block_navigation {
