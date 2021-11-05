@@ -622,6 +622,9 @@ a {
 }
 
 @media screen and (max-width: 576px) {
+    .tabs{
+        display: none;
+    }
     .cap {
         flex-direction: column;
     }
@@ -713,9 +716,8 @@ a {
     flex-direction: column;}
 .block_down_left p:last-child{
     padding-top: 0;
-}}
-@media screen and (max-width: 550px) {
-    .Guide{
+}
+        .Guide{
             text-align: center;
     }
 .cap{    
@@ -744,3 +746,4 @@ a {
             margin: auto;
     }
 }
+
