@@ -715,6 +715,9 @@ a {
     padding-top: 0;
 }}
 @media screen and (max-width: 550px) {
+    .Guide{
+            text-align: center;
+    }
 .cap{    
     flex-direction: column;
     text-align: center;
@@ -731,7 +734,7 @@ a {
 }
 .block_acc{
     order: -1;
-    padding-top: 20px;
+    margin-top: 20px;
 }
 .block_two,.block_three,.block_one{
         background-position: center top;
