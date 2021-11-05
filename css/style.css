@@ -734,3 +734,7 @@ a {
     order: -1;
     padding-top: 20px;
 }
+.block_two,.block_three,.block_one{
+        background-position: center top;
+    padding-top: 180px;
+}
