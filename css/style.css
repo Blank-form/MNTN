@@ -714,3 +714,16 @@ a {
 .block_down_left p:last-child{
     padding-top: 0;
 }
+@media screen and (max-width: 550px) {
+.cap{    
+    flex-direction: column;
+    text-align: center;
+    }
+    
+    .block_navigation {
+    flex-direction: column;
+}
+    .block_navigation a{
+        
+        padding: 20px 0 !important;}
+}
