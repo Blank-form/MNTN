@@ -692,7 +692,7 @@ a {
     background: none;
     padding-left: 0;}
 .read{
-    margin: 0 auto;}
+    margin: 0 auto;
 }
 .Guide h1{
     font-size: 70px;
@@ -713,7 +713,7 @@ a {
     flex-direction: column;}
 .block_down_left p:last-child{
     padding-top: 0;
-}
+}}
 @media screen and (max-width: 550px) {
 .cap{    
     flex-direction: column;
@@ -726,7 +726,6 @@ a {
     .block_navigation a{
         
         padding: 20px 0 !important;}
-}
 .MNTN{
     order: -2;
 }
@@ -737,4 +736,5 @@ a {
 .block_two,.block_three,.block_one{
         background-position: center top;
     padding-top: 180px;
+}
 }
