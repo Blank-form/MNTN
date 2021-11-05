@@ -745,5 +745,10 @@ a {
     .guide_a{
             margin: auto;
     }
+.Guide p{
+    padding-left: 0px;
+    background: url(../Photo/Image/Line.png) no-repeat center left, url(../Photo/Image/Line.png) no-repeat center right;
+
+}
 }
 
